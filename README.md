@@ -47,10 +47,10 @@ a quick help message for your module
 ### Installation Instructions
 ##### Run install.sh
 Open a terminal and type the following while running as the root user:
-`
+```
 chmod u+x /path/to/install.sh
 sh /path/to/install.sh
-`
+```
 
 ##### Copy/Paste
 Copy and paste the following into your terminal as user root
