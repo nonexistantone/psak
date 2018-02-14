@@ -127,6 +127,9 @@ The majority of revisions will involve simple code such as updating shebangs and
     
 - Privilege escalation:  https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
+- OSI/TCP/IP:
+https://dl.advanxer.com/stuff/Networking/Cheat%20Sheets%20-%20CCNA%20-%20howtonetwork.net/CCNA_OSI_TCP_IP_Cheat_Sheet_Updated.pdf
+
 ##### Project payload list
 > A list of frameworks to use to design deliverable payloads for penetration testers. 
 - [PowerSploit][powersploit]: PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment.
