@@ -123,6 +123,9 @@ The majority of revisions will involve simple code such as updating shebangs and
   - [Slowloris][slowloris]: an HTTP Denial of Service attack that affects threaded servers (Completed)
   - [DHCP-Starvation][DHCP-starvation]: DHCP starvation attack 
   
+### Cheatsheets 
+    
+- Privilege escalation:  https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
 ##### Project payload list
 > A list of frameworks to use to design deliverable payloads for penetration testers. 
